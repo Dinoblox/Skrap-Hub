@@ -1,0 +1,87 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Skrap Hub", "Serpent")
+
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Hacks")
+Section:NewButton("Vape V4", "VAPE V4 OP CRACKED", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+end) 
+Section:NewButton("Infinite Yield", "Inf. ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+local Tab = Window:NewTab("Player")
+local Section = Tab:NewSection("Player Hacks")
+Section:NewSlider("Speed", "SliderInfo", 150, 0, function(s) -- 150 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Skrap Hub", "Serpent")
+
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Hacks")
+Section:NewButton("Vape V4", "VAPE V4 OP CRACKED", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+end) 
+Section:NewButton("Infinite Yield", "Inf. ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+local Tab = Window:NewTab("Player")
+local Section = Tab:NewSection("Player Hacks")
+Section:NewSlider("Speed", "SliderInfo", 150, 0, function(s) -- 150 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Skrap Hub", "Serpent")
+
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Hacks")
+Section:NewButton("Vape V4", "VAPE V4 OP CRACKED", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+end) 
+Section:NewButton("Infinite Yield", "Inf. ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+local Tab = Window:NewTab("Player")
+local Section = Tab:NewSection("Player Hacks")
+Section:NewSlider("Speed", "SliderInfo", 150, 0, function(s) -- 150 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Skrap Hub", "Serpent")
+
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Hacks")
+Section:NewButton("Vape V4", "VAPE V4 OP CRACKED", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+end) 
+Section:NewButton("Infinite Yield", "Inf. ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+local Tab = Window:NewTab("Player")
+local Section = Tab:NewSection("Player Hacks")
+Section:NewSlider("Speed", "SliderInfo", 150, 0, function(s) -- 150 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed= s
+end)
+Section:NewSlider("Jump", "SliderInfo", 150, 0, function(s) -- 150 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower= s
+end)
+
+
+local Tab = Window:NewTab("Other")
+local Section = Tab:NewSection("Other")
+Section:NewButton("Chat Spoofer", "Lets You Chat For Other People", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/djBfk8Li'))()
+end)
+Section:NewButton("Animation Hub", "Makes You Change animations", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+end)
